@@ -101,9 +101,10 @@ Data takes up 3.9 MB of disk space. Will store and retrieve as csv.
 
     Check the data types.
 
-1. EDA - descriptive statistics
-1. EDA - correlation and distribution - features
-1. EDA - correlation and distribution - target
+1. EDA - statistics
+    1. EDA - descriptive
+    1. EDA - correlation and distribution - features
+    1. EDA - correlation and distribution - target
 1. EDA - handle categorical features
 1. Establish performance metric 
    - confusion matrix
